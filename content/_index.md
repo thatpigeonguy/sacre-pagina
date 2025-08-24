@@ -14,17 +14,17 @@ We are still in beta at the moment, so expect things to change!
 ---
 
 ### [Prayers](/prayers/)
-A treasury of traditional and contemporary Catholic prayers for all intentions and occasions. Find litanies, novenas, chaplets, and daily offerings to deepen your spiritual life.
+A treasury of traditional and contemporary Catholic prayers for all intentions and occasions.
 
 ---
 
 ### [Saints](/saints/)
-Discover the inspiring lives, patronages, and wisdom of our holy intercessors. Explore biographies, feast days, and learn how these blessed souls can guide your journey.
+Discover the inspiring lives, patronages, and wisdom of our holy intercessors. Explore biographies, feast days, and more.
 
 ---
 
 ### [Devotions](/devotions/)
-Explore the rich array of Catholic devotions. Understand the meaning and practice of the Rosary, Divine Mercy Chaplet, Stations of the Cross, Eucharistic Adoration, and more.
+Explore the rich array of Catholic devotions. Understand the meaning and practice of the Rosary, Divine Mercy Chaplet, Stations of the Cross, Eucharistic Adoration, and more. Here you can also find litanies, novenas, chaplets, and daily offerings.
 
 ---
 
