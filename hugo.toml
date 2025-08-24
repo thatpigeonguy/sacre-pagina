@@ -1,0 +1,10 @@
+baseURL = 'https://sacrepagina.net/'
+languageCode = 'en-us'
+title = 'Sacre Pagina'
+
+theme = 'lugo'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
