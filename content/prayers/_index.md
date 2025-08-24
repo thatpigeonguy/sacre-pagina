@@ -16,4 +16,6 @@ title: "Prayers"
 
 ### [Memorare](memorare)
 
+### [St. Michael Prayer](st-michael-prayer)
+
 </div>
