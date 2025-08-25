@@ -14,6 +14,8 @@ title: "Prayers"
 
 ### [Fatima Prayer](fatima-prayer)
 
+### [Hail Holy Queen](hail-holy-queen)
+
 ### [Memorare](memorare)
 
 ### [St. Michael Prayer](st-michael-prayer)
