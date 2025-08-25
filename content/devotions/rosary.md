@@ -149,6 +149,8 @@ Amen.
 
 14. **Sign of the Cross**
 
+---
+
 #### Latin Prayers & Instructions
 
 1. **Signum Crucis**  
