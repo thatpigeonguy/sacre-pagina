@@ -43,3 +43,10 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+
+a:link {
+  color: goldenrod;
+}
+a:visited {
+  color: goldenrod;
+}
