@@ -8,7 +8,7 @@ title: The Holy Rosary
 1. **Sign of the Cross**  
    In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-2. **Apostles’ Creed** (once)
+2. **Apostles’ Creed**
 
 I believe in God,  
 the Father almighty,  
@@ -32,7 +32,7 @@ the resurrection of the body,
 and the life everlasting.  
 Amen.
 
-3. **Our Father** (once)
+3. **Our Father**
 
 Our Father, Who art in heaven,  
 Hallowed be Thy Name.  
@@ -48,6 +48,8 @@ but deliver us from evil. Amen.
 
 4. **Hail Mary** (three times)
 
+For an increase in peace, hope, and charity. (optional)
+
 Hail Mary, full of grace,  
 the Lord is with thee.  
 Blessed art thou among women,  
@@ -57,7 +59,15 @@ pray for us sinners,
 now and at the hour of our death.  
 Amen.
 
-5. **Glory Be** (once)
+5. **Glory Be**
+
+Glory be to the Father,  
+and to the Son,  
+and to the Holy Spirit.  
+As it was in the beginning,  
+is now, and ever shall be,  
+world without end.  
+Amen.
 
 6. **Announce the First Mystery**  
    (Joyful, Luminous, Sorrowful, or Glorious, depending on the day)
@@ -90,30 +100,22 @@ Amen.
         4. The Assumption – Mary is assumed body and soul into heaven.  
         5. The Coronation of Mary – Mary is crowned Queen of Heaven and earth.
 
-7. **Our Father** (once)
+7. **Our Father**
 
 8. **Hail Mary** (ten times, one for each bead of the decade)
 
-9. **Glory Be** (once)
+9. **Glory Be**
 
-Glory be to the Father,  
-and to the Son,  
-and to the Holy Spirit.  
-As it was in the beginning,  
-is now, and ever shall be,  
-world without end.  
-Amen.
-
-10. **Fatima Prayer** (once)
+10. **Fatima Prayer**
 
 O my Jesus, forgive us our sins,  
 save us from the fires of hell,  
 lead all souls to heaven,  
 especially those most in need of Thy mercy.
 
-Repeat steps 6–10 for the remaining four decades.
+Repeat steps 6-10 for the remaining four decades.
 
-11. **Hail Holy Queen** (once)
+11. **Hail Holy Queen**
 
 Hail, Holy Queen, Mother of Mercy,  
 our life, our sweetness, and our hope.  
@@ -172,7 +174,7 @@ Amen.
 1. **Signum Crucis**  
    In nomine Patris, et Filii, et Spiritus Sancti. Amen.
 
-2. **Credo** (semel)
+2. **Credo**
 
 Credo in Deum,  
 Patrem omnipotentem,  
@@ -196,7 +198,7 @@ carnis resurrectionem,
 et vitam aeternam.  
 Amen.
 
-3. **Pater Noster** (semel)
+3. **Pater Noster**
 
 Pater noster, qui es in caelis,  
 sanctificetur nomen tuum.  
@@ -210,6 +212,8 @@ sed libera nos a malo. Amen.
 
 4. **Ave Maria** (ter)
 
+Pro incremento in pace, spes et caritas. (libitum)
+
 Ave Maria, gratia plena,  
 Dominus tecum.  
 Benedicta tu in mulieribus,  
@@ -218,7 +222,7 @@ Sancta Maria, Mater Dei,
 ora pro nobis peccatoribus,  
 nunc et in hora mortis nostrae. Amen.
 
-5. **Gloria Patri** (semel)
+5. **Gloria Patri**
 
 Gloria Patri, et Filio,  
 et Spiritui Sancto.  
@@ -257,28 +261,22 @@ et in saecula saeculorum. Amen.
      4. Assumptio – Maria assumitur.  
      5. Coronatio – Maria coronatur Regina.
 
-7. **Pater Noster** (semel)
+7. **Pater Noster**
 
 8. **Ave Maria** (decies)
 
-9. **Gloria Patri** (semel)
+9. **Gloria Patri**
 
-Gloria Patri, et Filio,  
-et Spiritui Sancto.  
-Sicut erat in principio,  
-et nunc, et semper,  
-et in saecula saeculorum. Amen.
-
-10. **O mi Iesu** (semel)
+10. **O mi Iesu**
 
 O mi Iesu, dimitte nobis debita nostra,  
 salva nos ab igne inferiori,  
 perduc omnes animas in caelum,  
 praesertim eas quae maxime indigent misericordia tua.
 
-Repete passus 6–10 pro quattuor reliquis decennis.
+Repete passus 6-10 pro quattuor reliquis decennis.
 
-11. **Salve Regina** (semel)
+11. **Salve Regina**
 
 Salve, Regina, Mater misericordiae,  
 vita, dulcedo et spes nostra, salve.  
