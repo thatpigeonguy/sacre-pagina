@@ -135,7 +135,23 @@ Amen.
 
 O God, whose only begotten Son, by His life, death, and resurrection, has purchased for us the rewards of eternal life, grant, we beseech Thee, that meditating upon these mysteries of the Most Holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ Our Lord. Amen.
 
-13. **Prayer to St. Michael** (optional)
+13. **Memorare** (optional)
+
+Remember, O most gracious Virgin Mary,  
+that never was it known  
+that anyone who fled to thy protection,  
+implored thy help,  
+or sought thy intercession  
+was left unaided.  
+Inspired by this confidence,  
+I fly unto thee, O Virgin of virgins, my Mother;  
+to thee do I come, before thee I stand, sinful and sorrowful.  
+O Mother of the Word Incarnate,  
+despise not my petitions,  
+but in thy mercy hear and answer me.  
+Amen.
+
+14. **Prayer to St. Michael** (optional)
 
 St. Michael the Archangel,  
 defend us in battle;  
@@ -147,7 +163,7 @@ cast into hell Satan and all the evil spirits
 who prowl about the world seeking the ruin of souls.  
 Amen.
 
-14. **Sign of the Cross**
+15. **Sign of the Cross**
 
 ---
 
@@ -284,7 +300,21 @@ Amen.
 
 Deus, cuius Unigenitus, per vitam, mortem et resurrectionem suam, nobis salutis aeternae praemia comparavit, concede, quaesumus, ut haec mysteria sacratissimi Rosarii beatae Mariae Virginis recolentes, et imitemur quod continent, et consequamur quod promittunt. Per eundem Christum Dominum nostrum. Amen.
 
-13. **Oratio ad Sanctum Michaëlem** (optional)
+13. **Memorare** (libitum)
+
+Memorare, O piissima Virgo Maria,  
+non esse auditum a saeculo,  
+quemquam ad tua currentem praesidia,  
+tua implorantem auxilia,  
+tua petentem suffragia,  
+esse derelictum.  
+Ego tali confidentia ad te, Virgo Virginum, Mater, curro;  
+ad te venio, coram te gemens peccator assisto.  
+Noli, Mater Verbi, verba mea despicere,  
+sed audi propitia et exaudi.  
+Amen.
+
+14. **Oratio ad Sanctum Michaëlem** (libitum)
 
 Sancte Michael Archangele,  
 defende nos in proelio;  
@@ -296,7 +326,7 @@ qui ad perditionem animarum pervagantur in mundo,
 divina virtute in infernum detrude.  
 Amen.
 
-14. **Signum Crucis**
+15. **Signum Crucis**
 
 ### About the Rosary
 
