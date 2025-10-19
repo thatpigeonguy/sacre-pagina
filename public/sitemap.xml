@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://sacrepagina.net/prayers/apostles-creed/</loc></url><url><loc>https://sacrepagina.net/categories/</loc></url><url><loc>https://sacrepagina.net/devotions/</loc></url><url><loc>https://sacrepagina.net/devotions/divine-mercy/</loc></url><url><loc>https://sacrepagina.net/prayers/fatima-prayer/</loc></url><url><loc>https://sacrepagina.net/prayers/glory-be/</loc></url><url><loc>https://sacrepagina.net/prayers/hail-holy-queen/</loc></url><url><loc>https://sacrepagina.net/prayers/hail-mary/</loc></url><url><loc>https://sacrepagina.net/prayers/memorare/</loc></url><url><loc>https://sacrepagina.net/prayers/our-father/</loc></url><url><loc>https://sacrepagina.net/prayers/st-michael-prayer/</loc></url><url><loc>https://sacrepagina.net/prayers/</loc></url><url><loc>https://sacrepagina.net/</loc></url><url><loc>https://sacrepagina.net/devotions/sacred-heart/</loc></url><url><loc>https://sacrepagina.net/saints/st-joseph/</loc></url><url><loc>https://sacrepagina.net/saints/</loc></url><url><loc>https://sacrepagina.net/tags/</loc></url><url><loc>https://sacrepagina.net/devotions/rosary/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/prayers/apostles-creed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/devotions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/devotions/divine-mercy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/fatima-prayer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/glory-be/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/hail-holy-queen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/hail-mary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/memorare/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/our-father/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/st-michael-prayer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/devotions/sacred-heart/</loc>
+  </url><url>
+    <loc>http://localhost:1313/saints/st-joseph/</loc>
+  </url><url>
+    <loc>http://localhost:1313/saints/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/devotions/rosary/</loc>
+  </url>
+</urlset>
