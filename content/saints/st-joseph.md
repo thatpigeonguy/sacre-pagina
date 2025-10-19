@@ -6,7 +6,7 @@ patronage: ["Universal Church", "Families", "Fathers", "Workers", "Dying"]
 
 <div style="text-align:center">
 
-![St. Joseph with the Child Jesus](/st-joseph.jpeg)
+![St. Joseph with the Child Jesus](st-joseph.jpeg)
 
 *St. Joseph with the Child Jesus, by Guido Reni (c. 1620).*
 
