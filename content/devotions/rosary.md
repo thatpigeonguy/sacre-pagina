@@ -171,160 +171,92 @@ Amen.
 
 #### Latin Prayers & Instructions
 
-1. **Signum Crucis**  
+1. **Sign of the Cross**  
    In nomine Patris, et Filii, et Spiritus Sancti. Amen.
 
-2. **Credo**
+2. **Apostles' Creed (Credo)**
 
-Credo in Deum,  
-Patrem omnipotentem,  
-Creatorem caeli et terrae,  
-et in Iesum Christum, Filium eius unicum, Dominum nostrum,  
-qui conceptus est de Spiritu Sancto,  
-natus ex Maria Virgine,  
-passus sub Pontio Pilato,  
-crucifixus, mortuus et sepultus;  
-descendit ad inferos;  
-tertia die resurrexit a mortuis;  
-ascendit ad caelos,  
-sedet ad dexteram Dei Patris omnipotentis;  
-inde venturus est iudicare vivos et mortuos.  
+Credo in Deum, Patrem omnipotentem, Creatorem caeli et terrae, et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus et sepultus; descendit ad inferos; tertia die resurrexit a mortuis; ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis; inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem, et vitam aeternam. Amen.
 
-Credo in Spiritum Sanctum,  
-sanctam Ecclesiam catholicam,  
-sanctorum communionem,  
-remissionem peccatorum,  
-carnis resurrectionem,  
-et vitam aeternam.  
-Amen.
+3. **Our Father (Pater Noster)**
 
-3. **Pater Noster**
+Pater noster, qui es in caelis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo. Amen.
 
-Pater noster, qui es in caelis,  
-sanctificetur nomen tuum.  
-Adveniat regnum tuum.  
-Fiat voluntas tua, sicut in caelo et in terra.  
-Panem nostrum quotidianum da nobis hodie,  
-et dimitte nobis debita nostra,  
-sicut et nos dimittimus debitoribus nostris.  
-Et ne nos inducas in tentationem,  
-sed libera nos a malo. Amen.
+4. **Hail Mary (Ave Maria)** (three times)
 
-4. **Ave Maria** (ter)
+For an increase in peace, hope, and charity. (optional)
 
-Pro incremento in pace, spes et caritas. (libitum)
+Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.
 
-Ave Maria, gratia plena,  
-Dominus tecum.  
-Benedicta tu in mulieribus,  
-et benedictus fructus ventris tui, Iesus.  
-Sancta Maria, Mater Dei,  
-ora pro nobis peccatoribus,  
-nunc et in hora mortis nostrae. Amen.
+5. **Glory Be (Gloria Patri)**
 
-5. **Gloria Patri**
+Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.
 
-Gloria Patri, et Filio,  
-et Spiritui Sancto.  
-Sicut erat in principio,  
-et nunc, et semper,  
-et in saecula saeculorum. Amen.
+6. **Announce the First Mystery**  
+   (Joyful, Luminous, Sorrowful, or Glorious, depending on the day)
 
-6. **Annumtia Mysterium Primum**  
-   (Gaudiosa, Luminosa, Dolorosa, seu Gloriosa, pro die)
+   - **Joyful** – Monday & Saturday  
+     1. The Annunciation – Annuntiatio.  
+     2. The Visitation – Visitatio.  
+     3. The Nativity – Nativitas.  
+     4. The Presentation – Praesentatio.  
+     5. Finding in the Temple – Inventio in Templo.
 
-   - **Gaudiosa** – feria secunda et sabbato  
-     1. Annuntiatio – Angelus Gabriel annuntiat nativitatem Iesus.  
-     2. Visitatio – Infans in utero Elisabeth exsultat Mariae visitatione.  
-     3. Nativitas – Iesus nascitur in Bethlehem.  
-     4. Praesentatio – Iesus in Templo offertur.  
-     5. Inventio in Templo – Iesus in Templo docet.
+   - **Luminous** – Thursday  
+     1. The Baptism – Baptismus.  
+     2. The Wedding at Cana – Nuptiae Canenses.  
+     3. Proclamation of the Kingdom – Praedicatio Regni.  
+     4. The Transfiguration – Transfiguratio.  
+     5. Institution of the Eucharist – Institutio Eucharistiae.
 
-   - **Luminosa** – feria quinta  
-     1. Baptismus – Iesus baptizatur a Ioanne in Iordane.  
-     2. Nuptiae Canenses – Iesus mutat aquam in vinum.  
-     3. Praedicatio Regni – Iesus annuntiat Regnum Dei.  
-     4. Transfiguratio – Iesus transfiguratur in monte Thabor.  
-     5. Institutio Eucharistiae – Iesus instituit Eucharistiam.
+   - **Sorrowful** – Tuesday & Friday  
+     1. The Agony – Agonia.  
+     2. The Scourging – Flagellatio.  
+     3. The Crowning – Coronatio.  
+     4. Carrying of the Cross – Crucis Baja.  
+     5. The Crucifixion – Crucifixio.
 
-   - **Dolorosa** – feria tertia et sexta  
-     1. Agonia – Iesus orat in horto.  
-     2. Flagellatio – Iesus flagellatur.  
-     3. Coronatio – Iesus coronatur spinis.  
-     4. Crucis Baja – Iesus crucem portat.  
-     5. Crucifixio – Iesus moritur in cruce.
+   - **Glorious** – Wednesday & Sunday  
+     1. The Resurrection – Resurrectio.  
+     2. The Ascension – Ascensio.  
+     3. Pentecost – Pentecostes.  
+     4. The Assumption – Assumptio.  
+     5. The Coronation – Coronatio.
 
-   - **Gloriosa** – feria quarta et dominica  
-     1. Resurrectio – Iesus resurgit.  
-     2. Ascensio – Iesus ascendit in caelum.  
-     3. Pentecostes – Spiritus Sanctus descendit.  
-     4. Assumptio – Maria assumitur.  
-     5. Coronatio – Maria coronatur Regina.
+7. **Our Father (Pater Noster)**
 
-7. **Pater Noster**
+8. **Hail Mary (Ave Maria)** (ten times)
 
-8. **Ave Maria** (decies)
+9. **Glory Be (Gloria Patri)**
 
-9. **Gloria Patri**
+10. **Fatima Prayer (O Mi Iesu)**
 
-10. **O mi Iesu**
+O mi Iesu, dimitte nobis debita nostra, salva nos ab igne inferiori, perduc omnes animas in caelum, praesertim eas quae maxime indigent misericordia tua.
 
-O mi Iesu, dimitte nobis debita nostra,  
-salva nos ab igne inferiori,  
-perduc omnes animas in caelum,  
-praesertim eas quae maxime indigent misericordia tua.
+Repeat steps 6-10 for the remaining four decades.
 
-Repete passus 6-10 pro quattuor reliquis decennis.
+11. **Hail Holy Queen (Salve Regina)**
 
-11. **Salve Regina**
+Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus exsules filii Evae; ad te suspiramus gementes et flentes in hac lacrimarum valle. Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte; et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, O pia, O dulcis Virgo Maria.  
 
-Salve, Regina, Mater misericordiae,  
-vita, dulcedo et spes nostra, salve.  
-Ad te clamamus exsules filii Evae;  
-ad te suspiramus gementes et flentes  
-in hac lacrimarum valle.  
-Eia ergo, advocata nostra,  
-illos tuos misericordes oculos ad nos converte;  
-et Iesum, benedictum fructum ventris tui,  
-nobis post hoc exsilium ostende.  
-O clemens, O pia, O dulcis Virgo Maria.  
-
-V. Ora pro nobis, sancta Dei Genitrix.  
-R. Ut digni efficiamur promissionibus Christi.  
+V. Pray for us, O holy Mother of God.  
+R. That we may be made worthy of the promises of Christ.  
 
 Amen.
 
-12. **Oratio Finalis**
+12. **Final Prayer**
 
 Deus, cuius Unigenitus, per vitam, mortem et resurrectionem suam, nobis salutis aeternae praemia comparavit, concede, quaesumus, ut haec mysteria sacratissimi Rosarii beatae Mariae Virginis recolentes, et imitemur quod continent, et consequamur quod promittunt. Per eundem Christum Dominum nostrum. Amen.
 
-13. **Memorare** (libitum)
+13. **Memorare** (optional)
 
-Memorare, O piissima Virgo Maria,  
-non esse auditum a saeculo,  
-quemquam ad tua currentem praesidia,  
-tua implorantem auxilia,  
-tua petentem suffragia,  
-esse derelictum.  
-Ego tali confidentia ad te, Virgo Virginum, Mater, curro;  
-ad te venio, coram te gemens peccator assisto.  
-Noli, Mater Verbi, verba mea despicere,  
-sed audi propitia et exaudi.  
-Amen.
+Memorare, O piissima Virgo Maria, non esse auditum a saeculo, quemquam ad tua currentem praesidia, tua implorantem auxilia, tua petentem suffragia, esse derelictum. Ego tali confidentia ad te, Virgo Virginum, Mater, curro; ad te venio, coram te gemens peccator assisto. Noli, Mater Verbi, verba mea despicere, sed audi propitia et exaudi. Amen.
 
-14. **Oratio ad Sanctum Michaëlem** (libitum)
+14. **Prayer to St. Michael** (optional)
 
-Sancte Michael Archangele,  
-defende nos in proelio;  
-contra nequitiam et insidias diaboli esto praesidium.  
-Imperet illi Deus, supplices deprecamur:  
-tuque, Princeps militiae caelestis,  
-satanam aliosque spiritus malignos,  
-qui ad perditionem animarum pervagantur in mundo,  
-divina virtute in infernum detrude.  
-Amen.
+Sancte Michael Archangele, defende nos in proelio; contra nequitiam et insidias diaboli esto praesidium. Imperet illi Deus, supplices deprecamur: tuque, Princeps militiae caelestis, satanam aliosque spiritus malignos, qui ad perditionem animarum pervagantur in mundo, divina virtute in infernum detrude. Amen.
 
-15. **Signum Crucis**
+15. **Sign of the Cross**
 
 ### About the Rosary
 
