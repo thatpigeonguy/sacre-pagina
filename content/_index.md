@@ -35,3 +35,11 @@ An index of apparitions ranging from Our Lady to various saints.
 
 ### [Liturgical Calendar](liturgical-calendar/)
 Follow the rhythms of the Church year. Gain insight into seasons like Advent, Lent, and Easter, along with solemnities, feasts, and memorials that shape our communal worship.
+
+---
+
+<div style="text-align: center;">
+
+Site maintained by [Jonah](https://thecoup.xyz/)
+
+</div>
