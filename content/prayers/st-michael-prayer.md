@@ -3,7 +3,7 @@ draft: false
 title: Prayer to St. Michael the Archangel (Oratio ad Sancte Michael Archangeli)
 ---
 
-### Prayer to St. Michael the Archangel
+### The Prayer
 
 #### English
 
