@@ -14,7 +14,7 @@ especially those most in need of Thy mercy.
 
 #### Latin
 
-Domine Iesu, dimitte nobis debita nostra,  
+O mi Iesu, dimitte nobis debita nostra,  
 libera nos ab igne inferni,  
 conduc in caelum omnes animas,  
 praesertim eas, quae maxime indigent misericordia tua.
