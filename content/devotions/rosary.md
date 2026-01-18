@@ -135,7 +135,16 @@ Amen.
 
 12. **Final Prayer**
 
-O God, whose only begotten Son, by His life, death, and resurrection, has purchased for us the rewards of eternal life, grant, we beseech Thee, that meditating upon these mysteries of the Most Holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ Our Lord. Amen.
+O God, whose only begotten Son,  
+by His life, death, and resurrection,  
+has purchased for us the rewards of eternal life,  
+grant, we beseech Thee,  
+that meditating upon these mysteries  
+of the Most Holy Rosary of the Blessed Virgin Mary,  
+we may imitate what they contain  
+and obtain what they promise,  
+through the same Christ our Lord.  
+Amen.
 
 13. **Memorare** (optional)
 
@@ -157,7 +166,7 @@ Amen.
 
 St. Michael the Archangel,  
 defend us in battle;  
-be our safeguard against the wickedness and snares of the devil.  
+be our protection against the wickedness and snares of the devil.  
 May God rebuke him, we humbly pray,  
 and do thou, O Prince of the heavenly host,  
 by the power of God  
@@ -176,21 +185,62 @@ Amen.
 
 2. **Apostles' Creed (Credo)**
 
-Credo in Deum, Patrem omnipotentem, Creatorem caeli et terrae, et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus et sepultus; descendit ad inferos; tertia die resurrexit a mortuis; ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis; inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem, et vitam aeternam. Amen.
+Credo in Deum,  
+Patrem omnipotentem,  
+Creatorem caeli et terrae,  
+et in Iesum Christum, Filium eius unicum, Dominum nostrum,  
+qui conceptus est de Spiritu Sancto,  
+natus ex Maria Virgine,  
+passus sub Pontio Pilato,  
+crucifixus, mortuus et sepultus;  
+descendit ad inferos;  
+tertia die resurrexit a mortuis;  
+ascendit ad caelos,  
+sedet ad dexteram Dei Patris omnipotentis;  
+inde venturus est iudicare vivos et mortuos.  
+
+Credo in Spiritum Sanctum,  
+sanctam Ecclesiam catholicam,  
+sanctorum communionem,  
+remissionem peccatorum,  
+carnis resurrectionem,  
+et vitam aeternam.  
+Amen.
 
 3. **Our Father (Pater Noster)**
 
-Pater noster, qui es in caelis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo. Amen.
+Pater Noster, qui es in caelis,  
+sanctificetur nomen tuum.  
+Adveniat regnum tuum.  
+Fiat voluntas tua, sicut in caelo et in terra.
+
+Panem nostrum quotidianum da nobis hodie,  
+et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris.  
+Et ne nos inducas in tentationem,  
+sed libera nos a malo.
+Amen.
 
 4. **Hail Mary (Ave Maria)** (three times)
 
 For an increase in peace, hope, and charity. (optional)
 
-Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.
+Ave Maria, gratia plena,  
+Dominus tecum.  
+Benedicta tu in mulieribus,  
+et benedictus fructus ventris tui, Iesus.  
+Sancta Maria, Mater Dei,  
+ora pro nobis peccatoribus,  
+nunc et in hora mortis nostrae.  
+Amen.
 
 5. **Glory Be (Gloria Patri)**
 
-Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.
+Gloria Patri, et Filio,  
+et Spiritui Sancto.  
+Sicut erat in principio,  
+et nunc, et semper,  
+et in saecula saeculorum.  
+Amen.
 
 6. **Announce the First Mystery**  
    (Joyful, Luminous, Sorrowful, or Glorious, depending on the day)
@@ -231,13 +281,25 @@ Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et
 
 10. **Fatima Prayer (O Mi Iesu)**
 
-O mi Iesu, dimitte nobis debita nostra, salva nos ab igne inferiori, perduc omnes animas in caelum, praesertim eas quae maxime indigent misericordia tua.
-
+O mi Iesu, dimitte nobis debita nostra,  
+libera nos ab igne inferni,  
+conduc in caelum omnes animas,  
+praesertim eas, quae maxime indigent misericordia tua.
 Repeat steps 6-10 for the remaining four decades.
 
 11. **Hail Holy Queen (Salve Regina)**
 
-Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus exsules filii Evae; ad te suspiramus gementes et flentes in hac lacrimarum valle. Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte; et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, O pia, O dulcis Virgo Maria.  
+Salve, Regina, Mater misericordiae,  
+vita, dulcedo, et spes nostra, salve.  
+Ad te clamamus, exsules filii Evae.  
+Ad te suspiramus, gementes et flentes,  
+in hac lacrimarum valle.  
+Eia ergo, advocata nostra,  
+illos tuos misericordes oculos ad nos converte.  
+Et Iesum, benedictum fructum ventris tui,  
+nobis post hoc exsilium ostende.  
+
+O clemens, o pia, o dulcis Virgo Maria.
 
 V. Pray for us, O holy Mother of God.  
 R. That we may be made worthy of the promises of Christ.  
@@ -246,15 +308,42 @@ Amen.
 
 12. **Final Prayer**
 
-Deus, cuius Unigenitus, per vitam, mortem et resurrectionem suam, nobis salutis aeternae praemia comparavit, concede, quaesumus, ut haec mysteria sacratissimi Rosarii beatae Mariae Virginis recolentes, et imitemur quod continent, et consequamur quod promittunt. Per eundem Christum Dominum nostrum. Amen.
+Deus, cuius Unigenitus,  
+per vitam, mortem et resurrectionem suam,  
+nobis salutis aeternae praemia comparavit,  
+concede, quaesumus,  
+ut haec mysteria sacratissimi Rosarii beatae Mariae Virginis recolentes,  
+et imitemur quod continent,  
+et consequamur quod promittunt.  
+Per eundem Christum Dominum nostrum.  
+
+Amen.
 
 13. **Memorare** (optional)
 
-Memorare, O piissima Virgo Maria, non esse auditum a saeculo, quemquam ad tua currentem praesidia, tua implorantem auxilia, tua petentem suffragia, esse derelictum. Ego tali confidentia ad te, Virgo Virginum, Mater, curro; ad te venio, coram te gemens peccator assisto. Noli, Mater Verbi, verba mea despicere, sed audi propitia et exaudi. Amen.
+Memorare, O piissima Virgo Maria,  
+non esse auditum a saeculo,  
+quemquam ad tua currentem praesidia,  
+tua implorantem auxilia,  
+tua petentem suffragia,  
+esse derelictum.  
+Ego tali confidentia ad te, Virgo Virginum, Mater, curro;  
+ad te venio, coram te gemens peccator assisto.  
+Noli, Mater Verbi, verba mea despicere,  
+sed audi propitia et exaudi.  
+Amen.
 
 14. **Prayer to St. Michael** (optional)
 
-Sancte Michael Archangele, defende nos in proelio; contra nequitiam et insidias diaboli esto praesidium. Imperet illi Deus, supplices deprecamur: tuque, Princeps militiae caelestis, satanam aliosque spiritus malignos, qui ad perditionem animarum pervagantur in mundo, divina virtute in infernum detrude. Amen.
+Sancte Michael Archangele,  
+defende nos in proelio;  
+contra nequitiam et insidias diaboli esto praesidium.  
+Imperet illi Deus, supplices deprecamur:  
+tuque, Princeps militiae caelestis,  
+satanam aliosque spiritus malignos  
+qui ad perditionem animarum pervagantur in mundo,  
+divina virtute in infernum detrude.  
+Amen.
 
 15. **Sign of the Cross**
 
