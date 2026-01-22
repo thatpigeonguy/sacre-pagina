@@ -1,6 +1,6 @@
 ---
 date: 2026-01-13T14:49:43-05:00
-draft: true
+draft: false
 title: Nicene Creed (Symbolum Nicaenum)
 ---
 

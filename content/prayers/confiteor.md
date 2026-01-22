@@ -1,6 +1,6 @@
 ---
 date: 2026-01-13T15:25:49-05:00
-draft: true
+draft: false
 title: Confiteor
 ---
 

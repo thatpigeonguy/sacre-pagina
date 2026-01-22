@@ -1,6 +1,6 @@
 ---
 date: 2026-01-13T15:00:45-05:00
-draft: true
+draft: false
 title: Act of Contrition
 ---
 

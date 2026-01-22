@@ -1,5 +1,22 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sacre Pagina</title><link>https://sacrepagina.net/tags/</link><description>Recent content in Tags on Sacre Pagina</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sacrepagina.net/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Apostle's Creed (Symbolum Apostolorum)</title><link>https://sacrepagina.net/prayers/apostles-creed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/apostles-creed/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Sacre Pagina</title>
+	<link>http://localhost:1313/tags/</link>
+	<description>Recent content in Tags on Sacre Pagina</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Apostle&#39;s Creed (Symbolum Apostolorum)</title>
+		<link>http://localhost:1313/prayers/apostles-creed/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/apostles-creed/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;I believe in God,&lt;br&gt;
 the Father almighty,&lt;br&gt;
 Creator of heaven and earth,&lt;br&gt;
@@ -20,7 +37,7 @@ the forgiveness of sins,&lt;br&gt;
 the resurrection of the body,&lt;br&gt;
 and the life everlasting.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;Credo in Deum,&lt;br&gt;
 Patrem omnipotentem,&lt;br&gt;
 Creatorem caeli et terrae,&lt;br&gt;
@@ -41,8 +58,18 @@ remissionem peccatorum,&lt;br&gt;
 carnis resurrectionem,&lt;br&gt;
 et vitam aeternam.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;Tradition holds the Apostles composed this creed, each apostle contributing one article. It is the ancient baptismal symbol of Rome and remains the foundational statement of Christian belief in the Western Church.&lt;/p&gt;</description></item><item><title>Divine Mercy Chaplet</title><link>https://sacrepagina.net/devotions/divine-mercy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/devotions/divine-mercy/</guid><description>&lt;h4 id="english-prayers--instructions"&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;Tradition holds the Apostles composed this creed, each apostle contributing one article. It is the ancient baptismal symbol of Rome and remains the foundational statement of Christian belief in the Western Church.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Divine Mercy Chaplet</title>
+		<link>http://localhost:1313/devotions/divine-mercy/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/devotions/divine-mercy/</guid>
+		<description>&lt;h4 id=&#34;english-prayers--instructions&#34;&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;br&gt;
@@ -56,7 +83,7 @@ In the name of the Father, and of the Son, and of the Holy Spirit. Amen.&lt;/p&g
 and the ocean of mercy opened up for the whole world.&lt;br&gt;
 O Fountain of Life, unfathomable Divine Mercy,&lt;br&gt;
 envelop the whole world and empty Yourself out upon us.&lt;/p&gt;
-&lt;ol start="3"&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Our Father&lt;/strong&gt; (once)&lt;/p&gt;
 &lt;/li&gt;
@@ -78,7 +105,7 @@ For the sake of His sorrowful Passion, have mercy on us and on the whole world.&
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Repeat steps 6–7 for the remaining four decades.&lt;/p&gt;
-&lt;ol start="8"&gt;
+&lt;ol start=&#34;8&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Concluding Doxology&lt;/strong&gt; (once)&lt;br&gt;
 Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world. (three times)&lt;/p&gt;
@@ -92,10 +119,10 @@ look kindly upon us and increase Your mercy in us,&lt;br&gt;
 that in difficult moments we might not despair nor become despondent,&lt;br&gt;
 but with great confidence submit ourselves to Your holy will,&lt;br&gt;
 which is Love and Mercy itself. Amen.&lt;/p&gt;
-&lt;ol start="10"&gt;
+&lt;ol start=&#34;10&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id="latin-prayers--instructions"&gt;Latin Prayers &amp;amp; Instructions&lt;/h4&gt;
+&lt;h4 id=&#34;latin-prayers--instructions&#34;&gt;Latin Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Signum Crucis&lt;/strong&gt;&lt;br&gt;
@@ -109,7 +136,7 @@ In nomine Patris, et Filii, et Spiritus Sancti. Amen.&lt;/p&gt;
 et oceanus misericordiae apertus est mundo toti.&lt;br&gt;
 O Fons Vitae, Divina Misericordia inscrutabilis,&lt;br&gt;
 amplectere mundum totum et effunde Te super nos.&lt;/p&gt;
-&lt;ol start="3"&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Pater Noster&lt;/strong&gt; (semel)&lt;/p&gt;
 &lt;/li&gt;
@@ -131,7 +158,7 @@ Pro dilecto dolore eius, miserere nobis et totius mundi.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Repete passus 6–7 pro quattuor reliquis decennis.&lt;/p&gt;
-&lt;ol start="8"&gt;
+&lt;ol start=&#34;8&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Doxologia Conclusiva&lt;/strong&gt; (semel)&lt;br&gt;
 Sanctus Deus, Sanctus Fortis, Sanctus Immortalis, miserere nobis et totius mundi. (ter)&lt;/p&gt;
@@ -145,24 +172,44 @@ respice benignus super nos et multiplica in nobis misericordiam tuam,&lt;br&gt;
 ut in momentis difficilibus non desperemus neque deficiamus,&lt;br&gt;
 sed magna fiducia nosmetipsos submittamus sanctae voluntati tuae,&lt;br&gt;
 quae est ipsa caritas et misericordia. Amen.&lt;/p&gt;
-&lt;ol start="10"&gt;
+&lt;ol start=&#34;10&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Signum Crucis&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="about-the-divine-mercy-devotion"&gt;About the Divine Mercy Devotion&lt;/h3&gt;
-&lt;p&gt;Given to St. Faustina Kowalska (1930s), the Chaplet of Divine Mercy implores God’s mercy upon the whole world. Jesus promised that those who pray it will obtain great mercy at the hour of death and that entire nations could be spared if they recite it.&lt;/p&gt;</description></item><item><title>Fatima Prayer (Oratio Fatimae)</title><link>https://sacrepagina.net/prayers/fatima-prayer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/fatima-prayer/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+&lt;h3 id=&#34;about-the-divine-mercy-devotion&#34;&gt;About the Divine Mercy Devotion&lt;/h3&gt;
+&lt;p&gt;Given to St. Faustina Kowalska (1930s), the Chaplet of Divine Mercy implores God’s mercy upon the whole world. Jesus promised that those who pray it will obtain great mercy at the hour of death and that entire nations could be spared if they recite it.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Fatima Prayer (Oratio Fatimae)</title>
+		<link>http://localhost:1313/prayers/fatima-prayer/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/fatima-prayer/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;O my Jesus, forgive us our sins,&lt;br&gt;
 save us from the fires of hell,&lt;br&gt;
 lead all souls to heaven,&lt;br&gt;
 especially those most in need of Thy mercy.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;O mi Iesu, dimitte nobis debita nostra,&lt;br&gt;
 libera nos ab igne inferni,&lt;br&gt;
 conduc in caelum omnes animas,&lt;br&gt;
 praesertim eas, quae maxime indigent misericordia tua.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;The Fatima Prayer was revealed by the Angel of Peace to the three shepherd children at Fátima, Portugal, in 1916 and later reinforced by Our Lady during the 1917 apparitions. While not required, it is customarily added at the end of each decade of the Rosary, pleading for mercy, conversion, and the salvation of souls.&lt;/p&gt;</description></item><item><title>Glory Be (Doxology)</title><link>https://sacrepagina.net/prayers/glory-be/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/glory-be/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;The Fatima Prayer was revealed by the Angel of Peace to the three shepherd children at Fátima, Portugal, in 1916 and later reinforced by Our Lady during the 1917 apparitions. While not required, it is customarily added at the end of each decade of the Rosary, pleading for mercy, conversion, and the salvation of souls.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Glory Be (Doxology)</title>
+		<link>http://localhost:1313/prayers/glory-be/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/glory-be/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Glory be to the Father,&lt;br&gt;
 and to the Son,&lt;br&gt;
 and to the Holy Spirit.&lt;br&gt;
@@ -170,16 +217,26 @@ As it was in the beginning,&lt;br&gt;
 is now, and ever shall be,&lt;br&gt;
 world without end.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;Gloria Patri, et Filio,&lt;br&gt;
 et Spiritui Sancto.&lt;br&gt;
 Sicut erat in principio,&lt;br&gt;
 et nunc, et semper,&lt;br&gt;
 et in saecula saeculorum.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;This brief Trinitarian doxology dates to at least the 4th century and is used to conclude psalms, canticles, and decades of the Rosary. It proclaims the eternal glory of the three divine Persons.&lt;/p&gt;</description></item><item><title>Hail Holy Queen (Salve Regina)</title><link>https://sacrepagina.net/prayers/hail-holy-queen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/hail-holy-queen/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;This brief Trinitarian doxology dates to at least the 4th century and is used to conclude psalms, canticles, and decades of the Rosary. It proclaims the eternal glory of the three divine Persons.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Hail Holy Queen (Salve Regina)</title>
+		<link>http://localhost:1313/prayers/hail-holy-queen/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/hail-holy-queen/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Hail, Holy Queen, Mother of Mercy,&lt;br&gt;
 our life, our sweetness, and our hope.&lt;br&gt;
 To thee do we cry, poor banished children of Eve;&lt;br&gt;
@@ -193,7 +250,7 @@ O clement, O loving, O sweet Virgin Mary.&lt;/p&gt;
 &lt;p&gt;V. Pray for us, O holy Mother of God.&lt;br&gt;
 R. That we may be made worthy of the promises of Christ.&lt;/p&gt;
 &lt;p&gt;Amen.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;Salve, Regina, Mater misericordiae,&lt;br&gt;
 vita, dulcedo et spes nostra, salve.&lt;br&gt;
 Ad te clamamus exsules filii Evae;&lt;br&gt;
@@ -207,9 +264,19 @@ O clemens, O pia, O dulcis Virgo Maria.&lt;/p&gt;
 &lt;p&gt;V. Ora pro nobis, sancta Dei Genitrix.&lt;br&gt;
 R. Ut digni efficiamur promissionibus Christi.&lt;/p&gt;
 &lt;p&gt;Amen.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;The Salve Regina is one of the four great Marian antiphons of the Roman liturgy, traditionally sung from the Saturday before Trinity Sunday until the eve of Advent. Attributed to Blessed Hermann of Reichenau (11th c.), it has long been the Church’s evening prayer to Mary, invoking her as the “Queen of Mercy” who comforts pilgrims still journeying through “this valley of tears.”&lt;/p&gt;</description></item><item><title>Hail Mary (Ave Maria)</title><link>https://sacrepagina.net/prayers/hail-mary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/hail-mary/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;The Salve Regina is one of the four great Marian antiphons of the Roman liturgy, traditionally sung from the Saturday before Trinity Sunday until the eve of Advent. Attributed to Blessed Hermann of Reichenau (11th c.), it has long been the Church’s evening prayer to Mary, invoking her as the “Queen of Mercy” who comforts pilgrims still journeying through “this valley of tears.”&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Hail Mary (Ave Maria)</title>
+		<link>http://localhost:1313/prayers/hail-mary/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/hail-mary/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Hail Mary, full of grace,&lt;br&gt;
 the Lord is with thee.&lt;br&gt;
 Blessed art thou among women,&lt;br&gt;
@@ -218,7 +285,7 @@ Holy Mary, Mother of God,&lt;br&gt;
 pray for us sinners,&lt;br&gt;
 now and at the hour of our death.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;Ave Maria, gratia plena,&lt;br&gt;
 Dominus tecum.&lt;br&gt;
 Benedicta tu in mulieribus,&lt;br&gt;
@@ -227,9 +294,19 @@ Sancta Maria, Mater Dei,&lt;br&gt;
 ora pro nobis peccatoribus,&lt;br&gt;
 nunc et in hora mortis nostrae.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;The Hail Mary combines the angel Gabriel’s greeting (Luke 1:28) and Elizabeth’s words (Luke 1:42) with a later medieval petition. It is the pre-eminent Marian devotion, forming the heart of the Rosary and countless other devotions.&lt;/p&gt;</description></item><item><title>Memorare</title><link>https://sacrepagina.net/prayers/memorare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/memorare/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;The Hail Mary combines the angel Gabriel’s greeting (Luke 1:28) and Elizabeth’s words (Luke 1:42) with a later medieval petition. It is the pre-eminent Marian devotion, forming the heart of the Rosary and countless other devotions.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Memorare</title>
+		<link>http://localhost:1313/prayers/memorare/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/memorare/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Remember, O most gracious Virgin Mary,&lt;br&gt;
 that never was it known&lt;br&gt;
 that anyone who fled to thy protection,&lt;br&gt;
@@ -243,7 +320,7 @@ O Mother of the Word Incarnate,&lt;br&gt;
 despise not my petitions,&lt;br&gt;
 but in thy mercy hear and answer me.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;Memorare, O piissima Virgo Maria,&lt;br&gt;
 non esse auditum a saeculo,&lt;br&gt;
 quemquam ad tua currentem praesidia,&lt;br&gt;
@@ -255,9 +332,19 @@ ad te venio, coram te gemens peccator assisto.&lt;br&gt;
 Noli, Mater Verbi, verba mea despicere,&lt;br&gt;
 sed audi propitia et exaudi.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;Attributed to St. Bernard of Clairvaux (or sometimes to the 15th-century cleric Claude Bernard), the Memorare is a heartfelt plea for Mary’s powerful intercession, emphasizing her unfailing help to those who seek her aid.&lt;/p&gt;</description></item><item><title>Our Father (Pater Noster)</title><link>https://sacrepagina.net/prayers/our-father/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/our-father/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;Attributed to St. Bernard of Clairvaux (or sometimes to the 15th-century cleric Claude Bernard), the Memorare is a heartfelt plea for Mary’s powerful intercession, emphasizing her unfailing help to those who seek her aid.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Our Father (Pater Noster)</title>
+		<link>http://localhost:1313/prayers/our-father/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/our-father/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Our Father, Who art in heaven,&lt;br&gt;
 Hallowed be Thy Name.&lt;br&gt;
 Thy Kingdom come.&lt;br&gt;
@@ -268,7 +355,7 @@ And forgive us our trespasses,&lt;br&gt;
 as we forgive those who trespass against us.&lt;br&gt;
 And lead us not into temptation,&lt;br&gt;
 but deliver us from evil. Amen.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;Pater Noster, qui es in caelis,&lt;br&gt;
 sanctificetur nomen tuum.&lt;br&gt;
 Adveniat regnum tuum.&lt;br&gt;
@@ -278,9 +365,19 @@ et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris.&lt;b
 Et ne nos inducas in tentationem,&lt;br&gt;
 sed libera nos a malo.
 Amen.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;The Our Father, or Pater Noster, is the prayer Jesus taught His disciples (Matthew 6:9–13, Luke 11:2–4). It is the most universal Christian prayer, often called the &amp;ldquo;Lord’s Prayer.&amp;rdquo; It expresses trust in God, submission to His will, and a plea for daily sustenance, forgiveness, and protection from evil.&lt;/p&gt;</description></item><item><title>Prayer to St. Michael the Archangel (Oratio ad Sancte Michael Archangeli)</title><link>https://sacrepagina.net/prayers/st-michael-prayer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/prayers/st-michael-prayer/</guid><description>&lt;h3 id="the-prayer"&gt;The Prayer&lt;/h3&gt;
-&lt;h4 id="english"&gt;English&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;The Our Father, or Pater Noster, is the prayer Jesus taught His disciples (Matthew 6:9–13, Luke 11:2–4). It is the most universal Christian prayer, often called the &amp;ldquo;Lord’s Prayer.&amp;rdquo; It expresses trust in God, submission to His will, and a plea for daily sustenance, forgiveness, and protection from evil.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Prayer to St. Michael the Archangel (Oratio ad Sancte Michael Archangeli)</title>
+		<link>http://localhost:1313/prayers/st-michael-prayer/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/prayers/st-michael-prayer/</guid>
+		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
+&lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;St. Michael the Archangel,&lt;br&gt;
 defend us in battle;&lt;br&gt;
 be our protection against the wickedness and snares of the devil.&lt;br&gt;
@@ -290,7 +387,7 @@ by the power of God&lt;br&gt;
 cast into hell Satan and all the evil spirits&lt;br&gt;
 who prowl about the world seeking the ruin of souls.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h4 id="latin"&gt;Latin&lt;/h4&gt;
+&lt;h4 id=&#34;latin&#34;&gt;Latin&lt;/h4&gt;
 &lt;p&gt;Sancte Michael Archangele,&lt;br&gt;
 defende nos in proelio;&lt;br&gt;
 contra nequitiam et insidias diaboli esto praesidium.&lt;br&gt;
@@ -300,8 +397,18 @@ satanam aliosque spiritus malignos&lt;br&gt;
 qui ad perditionem animarum pervagantur in mundo,&lt;br&gt;
 divina virtute in infernum detrude.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;h3 id="about-this-prayer"&gt;About this Prayer&lt;/h3&gt;
-&lt;p&gt;Composed by Pope Leo XIII in 1886 after a mystical experience, this prayer was originally ordered to be recited after every Low Mass throughout the Church. It calls upon St. Michael, guardian of the Church and leader of the heavenly armies, to protect the faithful from demonic assault and to secure the triumph of Christ’s kingdom.&lt;/p&gt;</description></item><item><title>Sacred Heart of Jesus</title><link>https://sacrepagina.net/devotions/sacred-heart/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/devotions/sacred-heart/</guid><description>&lt;h4 id="english-prayers--instructions"&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
+&lt;h3 id=&#34;about-this-prayer&#34;&gt;About this Prayer&lt;/h3&gt;
+&lt;p&gt;Composed by Pope Leo XIII in 1886 after a mystical experience, this prayer was originally ordered to be recited after every Low Mass throughout the Church. It calls upon St. Michael, guardian of the Church and leader of the heavenly armies, to protect the faithful from demonic assault and to secure the triumph of Christ’s kingdom.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Sacred Heart of Jesus</title>
+		<link>http://localhost:1313/devotions/sacred-heart/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/devotions/sacred-heart/</guid>
+		<description>&lt;h4 id=&#34;english-prayers--instructions&#34;&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;br&gt;
@@ -318,7 +425,7 @@ in union with the Holy Sacrifice of the Mass throughout the world,&lt;br&gt;
 for the salvation of souls, the reparation of sins,&lt;br&gt;
 and the reunion of all Christians.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="3"&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Act of Consecration to the Sacred Heart&lt;/strong&gt; (optional, once)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Most Sacred Heart of Jesus,&lt;br&gt;
@@ -331,15 +438,15 @@ be henceforth Thine without reserve.&lt;br&gt;
 Reign over me, O Sacred Heart,&lt;br&gt;
 and transform me into Thy likeness.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="4"&gt;
+&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Ejaculatory Prayer&lt;/strong&gt; (repeat often during the day)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Sacred Heart of Jesus, I trust in Thee.&lt;br&gt;
 Most Sacred Heart of Jesus, have mercy on us.&lt;/p&gt;
-&lt;ol start="5"&gt;
+&lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id="latin-prayers--instructions"&gt;Latin Prayers &amp;amp; Instructions&lt;/h4&gt;
+&lt;h4 id=&#34;latin-prayers--instructions&#34;&gt;Latin Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Signum Crucis&lt;/strong&gt;&lt;br&gt;
@@ -356,7 +463,7 @@ in unione cum Sacrificio Missae per orbem terrarum,&lt;br&gt;
 pro salute animarum, reparatione peccatorum&lt;br&gt;
 et unione omnium Christianorum.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="3"&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Actus Consecrationis&lt;/strong&gt; (optional, semel)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Sacratissimum Cor Iesu,&lt;br&gt;
@@ -369,26 +476,36 @@ deinceps Tuum sine reservatione.&lt;br&gt;
 Regna in me, O Cor Sacratissimum,&lt;br&gt;
 et transforma me ad imaginem Tuam.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="4"&gt;
+&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Brevis Oratio&lt;/strong&gt; (repete saepe)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Cor Iesu Sacratissimum, confido in Te.&lt;br&gt;
 Cor Iesu Sacratissimum, miserere nobis.&lt;/p&gt;
-&lt;ol start="5"&gt;
+&lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Signum Crucis&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="about-the-sacred-heart-devotion"&gt;About the Sacred Heart Devotion&lt;/h3&gt;
-&lt;p&gt;Revealed to St. Margaret Mary Alacoque (1673–1675), this devotion centers on Christ’s infinite love symbolized by His wounded heart. The Morning Offering unites every moment of the day with His redemptive work, while the Act of Consecration places the soul entirely under the loving reign of the Sacred Heart.&lt;/p&gt;</description></item><item><title>Saint Joseph</title><link>https://sacrepagina.net/saints/st-joseph/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/saints/st-joseph/</guid><description>&lt;div style="text-align:center"&gt;
-&lt;p&gt;&lt;img src="https://sacrepagina.net/st-joseph.jpeg" alt="St. Joseph with the Child Jesus"&gt;&lt;/p&gt;
+&lt;h3 id=&#34;about-the-sacred-heart-devotion&#34;&gt;About the Sacred Heart Devotion&lt;/h3&gt;
+&lt;p&gt;Revealed to St. Margaret Mary Alacoque (1673–1675), this devotion centers on Christ’s infinite love symbolized by His wounded heart. The Morning Offering unites every moment of the day with His redemptive work, while the Act of Consecration places the soul entirely under the loving reign of the Sacred Heart.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Saint Joseph</title>
+		<link>http://localhost:1313/saints/st-joseph/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/saints/st-joseph/</guid>
+		<description>&lt;div style=&#34;text-align:center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/st-joseph.jpeg&#34; alt=&#34;St. Joseph with the Child Jesus&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;St. Joseph with the Child Jesus, by Guido Reni (c. 1620).&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;h2 id="life"&gt;Life&lt;/h2&gt;
+&lt;h2 id=&#34;life&#34;&gt;Life&lt;/h2&gt;
 &lt;p&gt;Scriptural accounts identify Joseph as a carpenter of Davidic royal lineage who lived in Nazareth. Despite his noble ancestry, he was of humble means, as evidenced by his offering of affordable sacrifices at the Temple. He is characterized as a &amp;ldquo;righteous man&amp;rdquo; through his obedience to divine commands, his protection of Mary during her pregnancy, and his willingness to flee to Egypt to ensure the safety of Jesus. His regular observance of Passover and his anxious search for Jesus in Jerusalem further underscore his roles as a devout practitioner of his faith and a dedicated father.&lt;/p&gt;
 &lt;p&gt;Historical and ecclesiastical traditions suggest Joseph died before the start of Jesus&amp;rsquo; public ministry, leading to his designation as the patron saint of a happy death. In the Catholic tradition, he is honored with two feast days: March 19, celebrating him as the Husband of Mary, and May 1, honoring him as Joseph the Worker. His patronage is extensive, covering the Universal Church, families, various professions, and numerous countries and regions worldwide.&lt;/p&gt;
 &lt;p&gt;In religious iconography, Joseph is commonly depicted as an older man with a beard (see above), often accompanied by symbols such as carpenter’s tools, a flowering staff, or lilies. While apocryphal sources provide specific dates for his birth and death, these details are not verified by the biblical canon. Ultimately, the primary significance of Joseph in Christian theology lies in his role as the legal protector and provider for the Holy Family.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="patronage"&gt;Patronage&lt;/h2&gt;
+&lt;h2 id=&#34;patronage&#34;&gt;Patronage&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The Universal Church&lt;/li&gt;
 &lt;li&gt;Families and fathers&lt;/li&gt;
@@ -396,24 +513,34 @@ Cor Iesu Sacratissimum, miserere nobis.&lt;/p&gt;
 &lt;li&gt;The dying&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id="feast-days"&gt;Feast Days&lt;/h2&gt;
+&lt;h2 id=&#34;feast-days&#34;&gt;Feast Days&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;March 19&lt;/strong&gt; - Solemnity of Saint Joseph, Spouse of the Blessed Virgin Mary&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id="associated-devotions"&gt;Associated Devotions&lt;/h2&gt;
+&lt;h2 id=&#34;associated-devotions&#34;&gt;Associated Devotions&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://sacrepagina.net/prayers/litany-of-st-joseph"&gt;Litany of Saint Joseph&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://sacrepagina.net/prayers/prayer-to-st-joseph-for-a-happy-death"&gt;Prayer to St. Joseph for a Happy Death&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://sacrepagina.net/devotions/seven-sorrows-joys-of-st-joseph"&gt;Seven Sorrows and Joys of St. Joseph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/prayers/litany-of-st-joseph&#34;&gt;Litany of Saint Joseph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/prayers/prayer-to-st-joseph-for-a-happy-death&#34;&gt;Prayer to St. Joseph for a Happy Death&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/devotions/seven-sorrows-joys-of-st-joseph&#34;&gt;Seven Sorrows and Joys of St. Joseph&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;h2 id=&#34;sources&#34;&gt;Sources&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://commons.wikimedia.org/w/index.php?curid=15397339"&gt;Guido Reni - Web Gallery of Art&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.catholic.org/saints/saint.php?saint_id=4"&gt;St. Joseph - Catholic.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/w/index.php?curid=15397339&#34;&gt;Guido Reni - Web Gallery of Art&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.catholic.org/saints/saint.php?saint_id=4&#34;&gt;St. Joseph - Catholic.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;</description></item><item><title>The Holy Rosary</title><link>https://sacrepagina.net/devotions/rosary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sacrepagina.net/devotions/rosary/</guid><description>&lt;h4 id="english-prayers--instructions"&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
+&lt;hr&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>The Holy Rosary</title>
+		<link>http://localhost:1313/devotions/rosary/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/devotions/rosary/</guid>
+		<description>&lt;h4 id=&#34;english-prayers--instructions&#34;&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;br&gt;
@@ -443,7 +570,7 @@ the forgiveness of sins,&lt;br&gt;
 the resurrection of the body,&lt;br&gt;
 and the life everlasting.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="3"&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Our Father&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Our Father, Who art in heaven,&lt;br&gt;
@@ -456,7 +583,7 @@ And forgive us our trespasses,&lt;br&gt;
 as we forgive those who trespass against us.&lt;br&gt;
 And lead us not into temptation,&lt;br&gt;
 but deliver us from evil. Amen.&lt;/p&gt;
-&lt;ol start="4"&gt;
+&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Hail Mary&lt;/strong&gt; (three times)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;For an increase in peace, hope, and charity. (optional)&lt;/p&gt;
@@ -468,7 +595,7 @@ Holy Mary, Mother of God,&lt;br&gt;
 pray for us sinners,&lt;br&gt;
 now and at the hour of our death.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="5"&gt;
+&lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Glory Be&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Glory be to the Father,&lt;br&gt;
@@ -478,7 +605,7 @@ As it was in the beginning,&lt;br&gt;
 is now, and ever shall be,&lt;br&gt;
 world without end.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="6"&gt;
+&lt;ol start=&#34;6&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Announce the First Mystery&lt;/strong&gt;&lt;br&gt;
 (Joyful, Luminous, Sorrowful, or Glorious, depending on the day)&lt;/p&gt;
@@ -543,7 +670,7 @@ save us from the fires of hell,&lt;br&gt;
 lead all souls to heaven,&lt;br&gt;
 especially those most in need of Thy mercy.&lt;/p&gt;
 &lt;p&gt;Repeat steps 6-10 for the remaining four decades.&lt;/p&gt;
-&lt;ol start="11"&gt;
+&lt;ol start=&#34;11&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Hail Holy Queen&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Hail, Holy Queen, Mother of Mercy,&lt;br&gt;
@@ -559,7 +686,7 @@ O clement, O loving, O sweet Virgin Mary.&lt;/p&gt;
 &lt;p&gt;V. Pray for us, O holy Mother of God.&lt;br&gt;
 R. That we may be made worthy of the promises of Christ.&lt;/p&gt;
 &lt;p&gt;Amen.&lt;/p&gt;
-&lt;ol start="12"&gt;
+&lt;ol start=&#34;12&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Final Prayer&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;O God, whose only begotten Son,&lt;br&gt;
@@ -572,7 +699,7 @@ we may imitate what they contain&lt;br&gt;
 and obtain what they promise,&lt;br&gt;
 through the same Christ our Lord.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="13"&gt;
+&lt;ol start=&#34;13&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Memorare&lt;/strong&gt; (optional)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Remember, O most gracious Virgin Mary,&lt;br&gt;
@@ -588,7 +715,7 @@ O Mother of the Word Incarnate,&lt;br&gt;
 despise not my petitions,&lt;br&gt;
 but in thy mercy hear and answer me.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="14"&gt;
+&lt;ol start=&#34;14&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Prayer to St. Michael&lt;/strong&gt; (optional)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;St. Michael the Archangel,&lt;br&gt;
@@ -600,11 +727,11 @@ by the power of God&lt;br&gt;
 cast into hell Satan and all the evil spirits&lt;br&gt;
 who prowl about the world seeking the ruin of souls.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="15"&gt;
+&lt;ol start=&#34;15&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h4 id="latin-prayers--instructions"&gt;Latin Prayers &amp;amp; Instructions&lt;/h4&gt;
+&lt;h4 id=&#34;latin-prayers--instructions&#34;&gt;Latin Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;br&gt;
@@ -634,7 +761,7 @@ remissionem peccatorum,&lt;br&gt;
 carnis resurrectionem,&lt;br&gt;
 et vitam aeternam.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="3"&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Our Father (Pater Noster)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Pater Noster, qui es in caelis,&lt;br&gt;
@@ -646,7 +773,7 @@ et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris.&lt;b
 Et ne nos inducas in tentationem,&lt;br&gt;
 sed libera nos a malo.
 Amen.&lt;/p&gt;
-&lt;ol start="4"&gt;
+&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Hail Mary (Ave Maria)&lt;/strong&gt; (three times)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;For an increase in peace, hope, and charity. (optional)&lt;/p&gt;
@@ -658,7 +785,7 @@ Sancta Maria, Mater Dei,&lt;br&gt;
 ora pro nobis peccatoribus,&lt;br&gt;
 nunc et in hora mortis nostrae.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="5"&gt;
+&lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Glory Be (Gloria Patri)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Gloria Patri, et Filio,&lt;br&gt;
@@ -667,7 +794,7 @@ Sicut erat in principio,&lt;br&gt;
 et nunc, et semper,&lt;br&gt;
 et in saecula saeculorum.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="6"&gt;
+&lt;ol start=&#34;6&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Announce the First Mystery&lt;/strong&gt;&lt;br&gt;
 (Joyful, Luminous, Sorrowful, or Glorious, depending on the day)&lt;/p&gt;
@@ -732,7 +859,7 @@ libera nos ab igne inferni,&lt;br&gt;
 conduc in caelum omnes animas,&lt;br&gt;
 praesertim eas, quae maxime indigent misericordia tua.
 Repeat steps 6-10 for the remaining four decades.&lt;/p&gt;
-&lt;ol start="11"&gt;
+&lt;ol start=&#34;11&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Hail Holy Queen (Salve Regina)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Salve, Regina, Mater misericordiae,&lt;br&gt;
@@ -748,7 +875,7 @@ nobis post hoc exsilium ostende.&lt;/p&gt;
 &lt;p&gt;V. Pray for us, O holy Mother of God.&lt;br&gt;
 R. That we may be made worthy of the promises of Christ.&lt;/p&gt;
 &lt;p&gt;Amen.&lt;/p&gt;
-&lt;ol start="12"&gt;
+&lt;ol start=&#34;12&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Final Prayer&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Deus, cuius Unigenitus,&lt;br&gt;
@@ -760,7 +887,7 @@ et imitemur quod continent,&lt;br&gt;
 et consequamur quod promittunt.&lt;br&gt;
 Per eundem Christum Dominum nostrum.&lt;/p&gt;
 &lt;p&gt;Amen.&lt;/p&gt;
-&lt;ol start="13"&gt;
+&lt;ol start=&#34;13&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Memorare&lt;/strong&gt; (optional)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Memorare, O piissima Virgo Maria,&lt;br&gt;
@@ -774,7 +901,7 @@ ad te venio, coram te gemens peccator assisto.&lt;br&gt;
 Noli, Mater Verbi, verba mea despicere,&lt;br&gt;
 sed audi propitia et exaudi.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="14"&gt;
+&lt;ol start=&#34;14&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Prayer to St. Michael&lt;/strong&gt; (optional)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Sancte Michael Archangele,&lt;br&gt;
@@ -786,8 +913,13 @@ satanam aliosque spiritus malignos&lt;br&gt;
 qui ad perditionem animarum pervagantur in mundo,&lt;br&gt;
 divina virtute in infernum detrude.&lt;br&gt;
 Amen.&lt;/p&gt;
-&lt;ol start="15"&gt;
+&lt;ol start=&#34;15&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Sign of the Cross&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="about-the-rosary"&gt;About the Rosary&lt;/h3&gt;
-&lt;p&gt;The Rosary is a meditative prayer that combines vocal prayer with contemplation of the mysteries of Christ’s life. It developed in the Middle Ages and was popularized by St. Dominic. Each decade invites the faithful to “announce” a mystery and then immerse themselves in that scene while praying ten Hail Marys.&lt;/p&gt;</description></item></channel></rss>
+&lt;h3 id=&#34;about-the-rosary&#34;&gt;About the Rosary&lt;/h3&gt;
+&lt;p&gt;The Rosary is a meditative prayer that combines vocal prayer with contemplation of the mysteries of Christ’s life. It developed in the Middle Ages and was popularized by St. Dominic. Each decade invites the faithful to “announce” a mystery and then immerse themselves in that scene while praying ten Hail Marys.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
