@@ -2,6 +2,9 @@
 title: "Prayers"
 ---
 
+
+## Essentials
+
 <div style="column-count: 3; column-gap: 1rem;">
 
 ### [Sign of the Cross](sign-of-cross)
@@ -17,5 +20,15 @@ title: "Prayers"
 ### [Hail Holy Queen](hail-holy-queen)
 ### [St. Michael Prayer](st-michael-prayer)
 ### [Prayer Before Meals](prayer-before-meals)
+
+</div>
+
+---
+
+## Litanies
+
+<div style="column-count: 3; column-gap: 1rem;">
+
+### [Litany of Humility](litany-of-humility)
 
 </div>
