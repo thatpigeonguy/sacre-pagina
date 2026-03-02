@@ -371,7 +371,17 @@ Lord, have mercy on us.
 Christ, have mercy on us.
 Lord, have mercy on us.
 
-[Our Father](/prayers/our-father), who art in heaven...
+[Our Father](/prayers/our-father), Who art in heaven,  
+Hallowed be Thy Name.  
+Thy Kingdom come.  
+Thy Will be done,  
+on earth as it is in Heaven.
+
+Give us this day our daily bread.  
+And forgive us our trespasses,  
+as we forgive those who trespass against us.  
+And lead us not into temptation,  
+but deliver us from evil. Amen.
 
 <br>
 
@@ -741,4 +751,13 @@ Kyrie, eleison.
 Christe, eleison.
 Kyrie, eleison.
 
-[Pater noster](/prayers/our-father), qui es in cælis...
+[Pater noster](/prayers/our-father) qui es in caelis,  
+sanctificetur nomen tuum.  
+Adveniat regnum tuum.  
+Fiat voluntas tua, sicut in caelo et in terra.
+
+Panem nostrum quotidianum da nobis hodie,  
+et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris.  
+Et ne nos inducas in tentationem,  
+sed libera nos a malo.
+Amen.
