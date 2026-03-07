@@ -41,6 +41,7 @@ title: "Prayers"
 
 ### [Divine Mercy Chaplet](divine-mercy)
 ### [Sacred Heart of Jesus](sacred-heart)
+### [Stella Maris Chaplet](stella-maris)
 
 </div>
 
