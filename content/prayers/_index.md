@@ -25,6 +25,29 @@ title: "Prayers"
 
 ---
 
+## Rosaries
+
+<div style="column-count: 3; column-gap: 1rem;">
+
+### [The Holy Rosary](rosary)
+
+### [Sacred Heart of Jesus](sacred-heart)
+
+### [Divine Mercy Chaplet](divine-mercy)
+
+</div>
+
+---
+
+### Chaplets
+
+<div style="column-count: 3; column-gap: 1rem;">
+
+### [Divine Mercy Chaplet](divine-mercy)
+### [Sacred Heart of Jesus](sacred-heart)
+
+</div>
+
 ## Litanies
 
 <div style="column-count: 3; column-gap: 1rem;">
