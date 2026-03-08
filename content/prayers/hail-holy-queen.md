@@ -18,9 +18,6 @@ and after this our exile
 show unto us the blessed fruit of thy womb, Jesus.  
 O clement, O loving, O sweet Virgin Mary.  
 
-V. Pray for us, O holy Mother of God.  
-R. That we may be made worthy of the promises of Christ.  
-
 Amen.
 
 #### Latin
@@ -35,9 +32,6 @@ illos tuos misericordes oculos ad nos converte;
 et Iesum, benedictum fructum ventris tui,  
 nobis post hoc exsilium ostende.  
 O clemens, O pia, O dulcis Virgo Maria.  
-
-V. Ora pro nobis, sancta Dei Genitrix.  
-R. Ut digni efficiamur promissionibus Christi.  
 
 Amen.
 
