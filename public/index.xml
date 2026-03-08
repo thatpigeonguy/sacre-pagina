@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Sacre Pagina</title>
-	<link>http://localhost:1313/</link>
+	<link>https://sacrepagina.net/</link>
 	<description>Recent content on Sacre Pagina</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Tue, 13 Jan 2026 15:34:39 -0500</lastBuildDate>
+	<lastBuildDate>Sat, 07 Mar 2026 16:44:01 -0500</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sacrepagina.net/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Prayer Before Meals</title>
-		<link>http://localhost:1313/prayers/prayer-before-meals/</link>
+		<link>https://sacrepagina.net/prayers/prayer-before-meals/</link>
 		<pubDate>Tue, 13 Jan 2026 15:34:39 -0500</pubDate>
 		
-		<guid>http://localhost:1313/prayers/prayer-before-meals/</guid>
+		<guid>https://sacrepagina.net/prayers/prayer-before-meals/</guid>
 		<description>&lt;h3 id=&#34;english&#34;&gt;English&lt;/h3&gt;
 &lt;p&gt;Bless us, O Lord,&lt;br&gt;
 and these, thy gifts,&lt;br&gt;
@@ -34,10 +34,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Confiteor</title>
-		<link>http://localhost:1313/prayers/confiteor/</link>
+		<link>https://sacrepagina.net/prayers/confiteor/</link>
 		<pubDate>Tue, 13 Jan 2026 15:25:49 -0500</pubDate>
 		
-		<guid>http://localhost:1313/prayers/confiteor/</guid>
+		<guid>https://sacrepagina.net/prayers/confiteor/</guid>
 		<description>&lt;h3 id=&#34;english&#34;&gt;English&lt;/h3&gt;
 &lt;p&gt;I confess to almighty God
 and to you, my brothers and sisters,&lt;br&gt;
@@ -71,10 +71,10 @@ orare pro me ad Dominum Deum nostrum.&lt;/p&gt;
 	
 	<item>
 		<title>Sign of Cross</title>
-		<link>http://localhost:1313/prayers/sign-of-cross/</link>
+		<link>https://sacrepagina.net/prayers/sign-of-cross/</link>
 		<pubDate>Tue, 13 Jan 2026 15:20:38 -0500</pubDate>
 		
-		<guid>http://localhost:1313/prayers/sign-of-cross/</guid>
+		<guid>https://sacrepagina.net/prayers/sign-of-cross/</guid>
 		<description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;How to Pray:&lt;/strong&gt;
 Touch your forehead with your right hand, say &amp;ldquo;In the name of the Father.&amp;rdquo; Touch your chest, say &amp;ldquo;and of the Son.&amp;rdquo; Touch your left shoulder, then your right shoulder, say &amp;ldquo;and of the Holy Spirit.&amp;rdquo; Clasp hands together, say &amp;ldquo;Amen.&amp;rdquo;&lt;/p&gt;
@@ -94,10 +94,10 @@ et Spiritus Sancti.&lt;/p&gt;
 	
 	<item>
 		<title>Act of Contrition</title>
-		<link>http://localhost:1313/prayers/act-of-contrition/</link>
+		<link>https://sacrepagina.net/prayers/act-of-contrition/</link>
 		<pubDate>Tue, 13 Jan 2026 15:00:45 -0500</pubDate>
 		
-		<guid>http://localhost:1313/prayers/act-of-contrition/</guid>
+		<guid>https://sacrepagina.net/prayers/act-of-contrition/</guid>
 		<description>&lt;h2 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h2&gt;
 &lt;h3 id=&#34;english&#34;&gt;English&lt;/h3&gt;
 &lt;p&gt;O my God,&lt;br&gt;
@@ -143,10 +143,10 @@ et vitam emendare.&lt;/p&gt;
 	
 	<item>
 		<title>Nicene Creed (Symbolum Nicaenum)</title>
-		<link>http://localhost:1313/prayers/nicene-creed/</link>
+		<link>https://sacrepagina.net/prayers/nicene-creed/</link>
 		<pubDate>Tue, 13 Jan 2026 14:49:43 -0500</pubDate>
 		
-		<guid>http://localhost:1313/prayers/nicene-creed/</guid>
+		<guid>https://sacrepagina.net/prayers/nicene-creed/</guid>
 		<description>&lt;h2 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h2&gt;
 &lt;h3 id=&#34;english&#34;&gt;English&lt;/h3&gt;
 &lt;p&gt;I believe in one God,
@@ -223,10 +223,10 @@ et vitam venturi saeculi.&lt;/p&gt;
 	
 	<item>
 		<title>Apostle&#39;s Creed (Symbolum Apostolorum)</title>
-		<link>http://localhost:1313/prayers/apostles-creed/</link>
+		<link>https://sacrepagina.net/prayers/apostles-creed/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/apostles-creed/</guid>
+		<guid>https://sacrepagina.net/prayers/apostles-creed/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;I believe in God,&lt;br&gt;
@@ -277,10 +277,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Divine Mercy Chaplet</title>
-		<link>http://localhost:1313/prayers/divine-mercy/</link>
+		<link>https://sacrepagina.net/prayers/divine-mercy/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/divine-mercy/</guid>
+		<guid>https://sacrepagina.net/prayers/divine-mercy/</guid>
 		<description>&lt;h4 id=&#34;english-prayers--instructions&#34;&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -394,10 +394,10 @@ quae est ipsa caritas et misericordia. Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Fatima Prayer (Oratio Fatimae)</title>
-		<link>http://localhost:1313/prayers/fatima-prayer/</link>
+		<link>https://sacrepagina.net/prayers/fatima-prayer/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/fatima-prayer/</guid>
+		<guid>https://sacrepagina.net/prayers/fatima-prayer/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;O my Jesus, forgive us our sins,&lt;br&gt;
@@ -416,10 +416,10 @@ praesertim eas, quae maxime indigent misericordia tua.&lt;/p&gt;
 	
 	<item>
 		<title>Glory Be (Doxology)</title>
-		<link>http://localhost:1313/prayers/glory-be/</link>
+		<link>https://sacrepagina.net/prayers/glory-be/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/glory-be/</guid>
+		<guid>https://sacrepagina.net/prayers/glory-be/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Glory be to the Father,&lt;br&gt;
@@ -443,10 +443,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Hail Holy Queen (Salve Regina)</title>
-		<link>http://localhost:1313/prayers/hail-holy-queen/</link>
+		<link>https://sacrepagina.net/prayers/hail-holy-queen/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/hail-holy-queen/</guid>
+		<guid>https://sacrepagina.net/prayers/hail-holy-queen/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Hail, Holy Queen, Mother of Mercy,&lt;br&gt;
@@ -479,10 +479,10 @@ O clemens, O pia, O dulcis Virgo Maria.&lt;/p&gt;
 	
 	<item>
 		<title>Hail Mary (Ave Maria)</title>
-		<link>http://localhost:1313/prayers/hail-mary/</link>
+		<link>https://sacrepagina.net/prayers/hail-mary/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/hail-mary/</guid>
+		<guid>https://sacrepagina.net/prayers/hail-mary/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Hail Mary, full of grace,&lt;br&gt;
@@ -509,10 +509,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Litany of Humility (Litaniae de Humilitate)</title>
-		<link>http://localhost:1313/prayers/litany-of-humility/</link>
+		<link>https://sacrepagina.net/prayers/litany-of-humility/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/litany-of-humility/</guid>
+		<guid>https://sacrepagina.net/prayers/litany-of-humility/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;O Jesus, meek and humble of heart,&lt;br&gt;
@@ -620,10 +620,10 @@ Iesu, da mihi gratiam ut id desiderem.&lt;/p&gt;
 	
 	<item>
 		<title>Litany of the Saints (Litaniae Sanctorum)</title>
-		<link>http://localhost:1313/prayers/litany-of-the-saints/</link>
+		<link>https://sacrepagina.net/prayers/litany-of-the-saints/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/litany-of-the-saints/</guid>
+		<guid>https://sacrepagina.net/prayers/litany-of-the-saints/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Lord, have mercy on us.
@@ -867,7 +867,7 @@ Christ, graciously hear us.&lt;/p&gt;
 &lt;p&gt;Lord, have mercy on us.
 Christ, have mercy on us.
 Lord, have mercy on us.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/prayers/our-father&#34;&gt;Our Father&lt;/a&gt;, Who art in heaven,&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://sacrepagina.net/prayers/our-father&#34;&gt;Our Father&lt;/a&gt;, Who art in heaven,&lt;br&gt;
 Hallowed be Thy Name.&lt;br&gt;
 Thy Kingdom come.&lt;br&gt;
 Thy Will be done,&lt;br&gt;
@@ -1120,7 +1120,7 @@ Christe, exaudi nos.&lt;/p&gt;
 &lt;p&gt;Kyrie, eleison.
 Christe, eleison.
 Kyrie, eleison.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/prayers/our-father&#34;&gt;Pater noster&lt;/a&gt; qui es in caelis,&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://sacrepagina.net/prayers/our-father&#34;&gt;Pater noster&lt;/a&gt; qui es in caelis,&lt;br&gt;
 sanctificetur nomen tuum.&lt;br&gt;
 Adveniat regnum tuum.&lt;br&gt;
 Fiat voluntas tua, sicut in caelo et in terra.&lt;/p&gt;
@@ -1134,10 +1134,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Memorare</title>
-		<link>http://localhost:1313/prayers/memorare/</link>
+		<link>https://sacrepagina.net/prayers/memorare/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/memorare/</guid>
+		<guid>https://sacrepagina.net/prayers/memorare/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Remember, O most gracious Virgin Mary,&lt;br&gt;
@@ -1172,10 +1172,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Our Father (Pater Noster)</title>
-		<link>http://localhost:1313/prayers/our-father/</link>
+		<link>https://sacrepagina.net/prayers/our-father/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/our-father/</guid>
+		<guid>https://sacrepagina.net/prayers/our-father/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;Our Father, Who art in heaven,&lt;br&gt;
@@ -1205,10 +1205,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Prayer to St. Michael the Archangel (Oratio ad Sancte Michael Archangeli)</title>
-		<link>http://localhost:1313/prayers/st-michael-prayer/</link>
+		<link>https://sacrepagina.net/prayers/st-michael-prayer/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/st-michael-prayer/</guid>
+		<guid>https://sacrepagina.net/prayers/st-michael-prayer/</guid>
 		<description>&lt;h3 id=&#34;the-prayer&#34;&gt;The Prayer&lt;/h3&gt;
 &lt;h4 id=&#34;english&#34;&gt;English&lt;/h4&gt;
 &lt;p&gt;St. Michael the Archangel,&lt;br&gt;
@@ -1237,10 +1237,10 @@ Amen.&lt;/p&gt;
 	
 	<item>
 		<title>Sacred Heart of Jesus</title>
-		<link>http://localhost:1313/prayers/sacred-heart/</link>
+		<link>https://sacrepagina.net/prayers/sacred-heart/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/sacred-heart/</guid>
+		<guid>https://sacrepagina.net/prayers/sacred-heart/</guid>
 		<description>&lt;h4 id=&#34;english-prayers--instructions&#34;&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -1324,12 +1324,12 @@ Cor Iesu Sacratissimum, miserere nobis.&lt;/p&gt;
 	
 	<item>
 		<title>Saint Joseph</title>
-		<link>http://localhost:1313/saints/st-joseph/</link>
+		<link>https://sacrepagina.net/saints/st-joseph/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/saints/st-joseph/</guid>
+		<guid>https://sacrepagina.net/saints/st-joseph/</guid>
 		<description>&lt;div style=&#34;text-align:center&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/st-joseph.jpeg&#34; alt=&#34;St. Joseph with the Child Jesus&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sacrepagina.net/st-joseph.jpeg&#34; alt=&#34;St. Joseph with the Child Jesus&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;St. Joseph with the Child Jesus, by Guido Reni (c. 1620).&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr&gt;
@@ -1353,9 +1353,9 @@ Cor Iesu Sacratissimum, miserere nobis.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;associated-devotions&#34;&gt;Associated Devotions&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/prayers/litany-of-st-joseph&#34;&gt;Litany of Saint Joseph&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/prayers/prayer-to-st-joseph-for-a-happy-death&#34;&gt;Prayer to St. Joseph for a Happy Death&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/devotions/seven-sorrows-joys-of-st-joseph&#34;&gt;Seven Sorrows and Joys of St. Joseph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sacrepagina.net/prayers/litany-of-st-joseph&#34;&gt;Litany of Saint Joseph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sacrepagina.net/prayers/prayer-to-st-joseph-for-a-happy-death&#34;&gt;Prayer to St. Joseph for a Happy Death&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sacrepagina.net/devotions/seven-sorrows-joys-of-st-joseph&#34;&gt;Seven Sorrows and Joys of St. Joseph&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;sources&#34;&gt;Sources&lt;/h2&gt;
@@ -1369,10 +1369,10 @@ Cor Iesu Sacratissimum, miserere nobis.&lt;/p&gt;
 	
 	<item>
 		<title>The Holy Rosary</title>
-		<link>http://localhost:1313/prayers/rosary/</link>
+		<link>https://sacrepagina.net/prayers/rosary/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/prayers/rosary/</guid>
+		<guid>https://sacrepagina.net/prayers/rosary/</guid>
 		<description>&lt;h4 id=&#34;english-prayers--instructions&#34;&gt;English Prayers &amp;amp; Instructions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
