@@ -15,6 +15,7 @@ title: "Prayers"
 ### [Nicene Creed](nicene-creed)
 ### [Act of Contrition](act-of-contrition)
 ### [Confiteor](confiteor)
+### [Divine Praises](divine-praises)
 ### [Fatima Prayer](fatima-prayer)
 ### [Memorare](memorare)
 ### [Hail Holy Queen](hail-holy-queen)
