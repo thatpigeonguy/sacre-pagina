@@ -1,5 +1,5 @@
 baseURL = 'https://sacrepagina.net/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Sacre Pagina'
 
 theme = 'lugo'
