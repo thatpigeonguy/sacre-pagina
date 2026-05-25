@@ -56,3 +56,13 @@ title: "Prayers"
 ### [Litany of Humility](litany-of-humility)
 
 </div>
+
+---
+
+## Novenas
+
+<div style="column-count: 3; column-gap: 1rem;">
+
+### [Novena to St. Rita of Cascia](novena-st-rita-cascia)
+
+</div>
