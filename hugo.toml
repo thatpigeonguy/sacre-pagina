@@ -8,3 +8,7 @@ theme = 'lugo'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params.author]
+  name = "Jonah"
+  email = "jonah@thecoup.xyz"
