@@ -3,7 +3,7 @@
 	<title>{{ .Site.Title }}</title>
 	<link>{{ .Permalink }}</link>
 	<description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
-	<generator>Hugo -- gohugo.io</generator>{{ with .Site.Language.Locale }}
+	<generator>Hugo -- gohugo.io</generator>{{ with .Site.Language.LanguageCode }}
 	<language>{{ . }}</language>{{ end }}{{ with .Site.Params.author.email }}
 	<author>{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}</author>
 	<managingEditor>{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}</managingEditor>
