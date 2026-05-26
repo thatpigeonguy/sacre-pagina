@@ -21,15 +21,11 @@ We honor thy perfect union with the Divine Will, thy heroic sufferings during th
 
 Pray for us, O holy Saint Rita, that we may be made worthy of the promises of Christ. Amen.
 
-In the Name of the Father, and of the Son, and of the Holy Spirit.
-
-Amen.
-
 Sign of the Cross
 
 ### Day 2
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
@@ -51,7 +47,7 @@ Sign of the Cross
 
 ### Day 3
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
@@ -73,7 +69,7 @@ Sign of the Cross
 
 ### Day 4
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
@@ -95,7 +91,7 @@ Sign of the Cross
 
 ### Day 5
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
@@ -117,7 +113,7 @@ Sign of the Cross
 
 ### Day 6
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
@@ -139,7 +135,7 @@ Sign of the Cross
 
 ### Day 7
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
@@ -161,7 +157,7 @@ Sign of the Cross
 
 ### Day 8
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
@@ -183,7 +179,7 @@ Sign of the Cross
 
 ### Day 9
 
-[Sign of the Cross](/prayers/sign-of-cross)
+Sign of the Cross
 
 O Holy Patroness of those in need, Saint Rita, whose pleadings before thy Divine Lord are almost irresistible, who for thy lavishness in granting favors hast been called the Advocate of the hopeless and even of the Impossible; Saint Rita, so humble, so pure, so mortified, so patient and of compassionate love for thy Crucified Jesus that thou couldst obtain from Him whatsoever thou askest, on account of which all confidently have recourse to thee, expecting, if not always relief, at least comfort; be propitious to our petition, showing thy power with God on behalf of thy suppliant; be lavish to us, as thou hast been in so many wonderful cases, for the greater glory of God, for the spreading of thine own devotion, and for the consolation of those who trust in thee.
 
